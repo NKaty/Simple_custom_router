@@ -2,6 +2,7 @@
 
 # dependencies
 /node_modules
+/simple-api/node_modules
 
 # testing
 /coverage
